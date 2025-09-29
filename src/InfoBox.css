@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.InfoBox{
+   
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.cardContainer{
+    display: flex;
+    justify-content: center;
+    
+}
